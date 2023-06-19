@@ -1,0 +1,13 @@
+{
+    "couch_path": "http://localhost:5984/",
+    "couch_user": "admin",
+    "couch_password": "password",
+    "couch_base": "couch1",
+    "minio_path": "localhost:9000",
+    "minio_user": "user",
+    "minio_password": "password",
+    "minio_base": "test1",
+    "minio_ssl": false,
+    "minio_region": "",
+    "put_to_minio": true
+}
